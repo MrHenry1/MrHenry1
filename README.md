@@ -1,4 +1,4 @@
-### Olá, meu nome é Henry ✨
+### Olá, Eu sou o Henry ✨
 <div align="center">
   <a href="https://github.com/mrhenry1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrhenry1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
